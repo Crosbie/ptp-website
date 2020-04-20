@@ -1,0 +1,90 @@
+[
+    {
+        "id": "hair-dressing",
+        "name": "Hair Dressing",
+        "image": "/images/sharon-sq.png",
+        "desc": "I will be introducing different products and giving you guys the physical experience of washin, cutting & blow-drying hair using a few different techniques & Yes, you will be cutting hair!",
+        "coach": "Sharon Murphy",
+        "business": "Modesty HMS"
+    },
+    {
+        "id": "gel-nails",
+        "name": "Gel Nails",
+        "image": "/images/user.png",
+        "desc": "I will be introducing you guys to the different tools, products and techniques it takes to build the perfect set of nails! By the end you will be able to build a full set of gel nails with a perfect polish and a little bit of nail art!",
+        "coach": "Gemma Fox",
+        "business": "Gemma's Beauty Room"
+    },
+    {
+        "id": "personal-training",
+        "name": "Personal Training",
+        "image": "/images/user.png",
+        "desc": "This will give you an opportunity to see the gym from the opposite side. I will bring you into my gym and teach you the different ways you can teach a fitness and different techniques to get fit!",
+        "coach": "Jason Kehoe",
+        "business": "Marathon Fitness"
+    },
+    {
+        "id": "barbering",
+        "name": "Barbering",
+        "image": "/images/user.png",
+        "desc": "This will give you the opportunity to learn different styles, techniques and products used throughout the barbering industry today!",
+        "coach": "John Smith",
+        "business": ""
+    },
+    {
+        "id": "barista",
+        "name": "Barista Coffee Making",
+        "image": "/images/user.png",
+        "desc": "This is an opportunity to learn how to use a Barista Coffee machine like you see in a cafe, hotel or restaurant, and top it off with a little design with frothed milk. This will get you one step ahead to a new summer job!",
+        "coach": "Diarmuid Hunt",
+        "business": ""
+    },
+    {
+        "id": "Horses",
+        "name": "Working with Horses",
+        "image": "/images/user.png",
+        "desc": "This is a unique opportunity for you to get behind the scenes of a working horse farm that provides a craddle to grave lifecycle of the horse, and to get some hands on experience of the care and attention involved and to get up close and personal with these magnificent, noble creatures!",
+        "coach": "Myles Sunderland",
+        "business": "Kilcorral House"
+    },
+    {
+        "id": "film-making",
+        "name": "Introduction to Film Making",
+        "image": "/images/user.png",
+        "desc": "In this programme you will learn different ways to film & edit videos for Youtube, Instagram etc. all through your own phone. This is a great opportunity for someone who has an interest in Youtube, the social media world who wants to make a career through this, or even just for your own fun and entertainment!",
+        "coach": "Luke Mckenna & Karolina Kraus McKenna",
+        "business": ""
+    },
+    {
+        "id": "eyebrow-shaping",
+        "name": "Eyebrow Shaping & Threading",
+        "image": "/images/user.png",
+        "desc": "This programme will give you an insight into threading and brow shaping, it will help you learn what shape is best for each face shape. It will teach you how to thread and will also teach you how to shape the perfect brow!",
+        "coach": "Angie Cot",
+        "business": "AK Brow & Body Clinic"
+    },
+    {
+        "id": "sugar-crafting",
+        "name": "Sugar Crafting",
+        "image": "/images/user.png",
+        "desc": "This gives you an opportunity to learn Sugar Crafting skills for your cakes & cupcakes. This skill will teach you different techniques on how to make different patterns, figures etc. all out of sugar!",
+        "coach": "Niamh Doyle",
+        "business": "Mrs Doyle Bakes"
+    },
+    {
+        "id": "vegan-cooking",
+        "name": "Vegan & Meat-free Cooking",
+        "image": "/images/user.png",
+        "desc": "This is an opportunity for you to learn new cooking skills & new recipes for vegan-friendly & tasty meals!",
+        "coach": "Madeline Flanagan",
+        "business": ""
+    },
+    {
+        "id": "web-development",
+        "name": "Website Development",
+        "image": "/images/user.png",
+        "desc": "This programme will walk you through the basics of creating your first website. Starting from scratch you will build the structure, pages, branding and behavour for your own site. This will give you the skills you need to jump right into a summer job building websites!",
+        "coach": "Eoin Crosbie",
+        "business": "Red Hat"
+    }
+]
