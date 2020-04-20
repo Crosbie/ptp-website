@@ -29,7 +29,7 @@ function wireButtons(){
     $('body').append('<div id="alertMsg" class="alert alert-success" role="alert">Thank you for registering for '+ course +' course!</div>');
     //fadeOut alert
     setTimeout(function(){
-      $('#alertMsg').fadeOut();
+      $('#alertMsg').fadeOut().remove();
     },2000)
   });
 
@@ -39,7 +39,7 @@ function wireButtons(){
     $('body').append('<div id="alertMsg" class="alert alert-success" role="alert">Thank you for your feedback, we will be in touch soon!</div>');
     //fadeOut alert
     setTimeout(function(){
-      $('#alertMsg').fadeOut();
+      $('#alertMsg').fadeOut().remove();
     },2000)
   })
 };
