@@ -1,12 +1,12 @@
 
 
 setTimeout(function(){
-  attachModal();
+  wireButtons();
 },500);
 
 var course = "";
 
-function attachModal(){
+function wireButtons(){
   $('#signUpModal').on('show.bs.modal', function (event) {
     console.log('HELLLLLO');
     var button = $(event.relatedTarget) // Button that triggered the modal
@@ -27,9 +27,19 @@ function attachModal(){
     console.log('submit form');
     $('#signUpModal').modal('hide');
     $('body').append('<div id="alertMsg" class="alert alert-success" role="alert">Thank you for registering for '+ course +' course!</div>');
-    
+    //fadeOut alert
+    setTimeout(function(){
+      $('#alertMsg').fadeOut();
+    },2000)
+  });
+
+  $('#contact-form').submit(function(e){
+    console.log('submit form');
+    e.preventDefault();
+    $('body').append('<div id="alertMsg" class="alert alert-success" role="alert">Thank you for your feedback, we will be in touch soon!</div>');
+    //fadeOut alert
     setTimeout(function(){
       $('#alertMsg').fadeOut();
     },2000)
   })
-}
+};
